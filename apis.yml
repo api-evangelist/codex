@@ -39,7 +39,6 @@ apis:
   - name: Codex
     description: "Online Compiler for Various Languages"
     humanURL: https://github.com/Jaagrav/CodeX
-    baseURL: https://github.com/Jaagrav/CodeX
     tags:
       - Development
     properties:
